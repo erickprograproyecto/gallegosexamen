@@ -24,7 +24,7 @@ import com.example.prueba.service.ClienteService;
  * @author ISTA
  */
 @RestController
-@RequestMapping("/api/seguimiento")
+@RequestMapping("/api/cliente")
 public class ClienteController {
 
     @Autowired

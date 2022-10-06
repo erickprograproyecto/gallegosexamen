@@ -24,7 +24,7 @@ import com.example.prueba.service.ProductoService;
  * @author ISTA
  */
 @RestController
-@RequestMapping("/api/proyecto")
+@RequestMapping("/api/producto")
 
 public class ProductoController {
 
